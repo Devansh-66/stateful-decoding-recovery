@@ -1,0 +1,6 @@
+sim/
+working/
+*.npz
+*.jsonl
+*.log
+__pycache__/
